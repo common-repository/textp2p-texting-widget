@@ -1,0 +1,30 @@
+/* im styles*/
+.im-wraper{text-align: center;}
+.im-troublesh{text-align:left;}
+.im-heading{text-align:center;}
+/* Option page*/
+.options-im-textp2p .form-table tr { background: none repeat scroll 0 0 #F9F9F9;border: 1px solid #E4E4E4; margin: 0;padding-left: 3px;  }
+.options-im-textp2p .form-table td p { color: #AAA; font-size: 10px;}
+.options-im-textp2p .form-table label { font-size: 12px;}
+.options-im-textp2p .form-table input {padding: 5px;resize: none;}
+.options-im-textp2p .form-table input[type="checkbox"]{ width: auto;}
+/*TABS*/
+.im-tab{ background: #FFF; padding: 15px;height: auto;float: left;width: calc( 100% - 30px);}
+.options-im-textp2p .im-container{  width: 100%;}
+.im-container .nav-tab-active{ background: #fff; border-bottom: 1px solid #ffffff;}
+.options-im-textp2p .form-table th{ padding-left: 10px; width: 300px;position:relative;}
+.options-im-textp2p .submitbutton{margin-top:20px;}
+.im-tab.active {  display: block;}
+.im-tab { display: none;}
+.im-demo-image{text-align: center;}
+#im-list-form-update{ width: auto; line-height: unset;}
+.im-loading-img-wrapper{ position: absolute; width: 94%;background: #a29090;text-align: center; display: none;}
+.im-connected{ background: #279B27!important; color: #fff!important; font-weight: bold; padding: 5px 20px; font-size: 18px; display: inline; display: none;}
+.im-disconnected{ background: #FF0000!important; color: #fff!important; font-weight: bold; padding: 5px 20px; font-size: 18px; display: inline; cursor: pointer; display: none;}
+.im-testp2p-logo img{ width: 60px; height: 60px;}
+.im-testp2p-logo{ float: left; padding: 10px;}
+.im-textp2p-cache-notice{ background: green; padding: 15px 20px; margin-bottom: 10px; color: #fff; border: 1px solid #ccd0d4;border-left-width: 4px;box-shadow: 0 1px 1px rgba(0,0,0,.04);border-left-color: #E5E34F;}
+.im-textp2p-cache-notice a{ color: #E5E34F;font-weight: bold;}
+.cache-error-message{ position: relative;}
+.im-textp2p-cache-dismiss-notice::before, .im-textp2p-cache-dismiss-notice:hover::before{ color: #000;}
+.im-textp2p-cache-dismiss-notice{top: -5px;right: -5px;}
